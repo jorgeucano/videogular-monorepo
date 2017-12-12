@@ -1,7 +1,7 @@
 {
   "name": "@jorgeucanorg/core",
   "version": "1.0.0-alpha.0",
-  "repository": "https://github.com/jorgeucano/videogular-cli",
+  "repository": "https://github.com/jorgeucano/videogular-monorepo",
   "author": "Jorge <jorgeucano@gmail.com>",
   "license": "MIT",
   "private": false,
